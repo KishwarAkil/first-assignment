@@ -5,10 +5,12 @@ h1{font-size: 55px;}
 h2{font-size: 3em;}
 h3{margin-top: 7%;}
 
-.welcome-text{border-left: 5px solid firebrick;
+hr{ width: 40%; }
+
+.welcome-text{border-left: 5px solid rgb(178, 34, 34);
              border-radius:5px; padding-left: 15px;margin-top: 80px; }
 
-.red-color{color: rgb(196, 5, 5);}
+.red-color{color: rgb(175, 7, 7);}
 
 .flexible-container{display: flex;}
 
@@ -29,7 +31,7 @@ p{margin-bottom: 30px;}
 
 
 
-.motto {text-align: center; margin-top: 100px;}
+.medium-heading {text-align: center; margin-top: 100px;}
 .card-mission{background-color:rgba(95, 158, 160, 0.158);
      padding:0 10px 0 30px; margin: 50px;border-radius: 20px;}
 .card-mission img{width: 50%;}
@@ -39,6 +41,9 @@ p{margin-bottom: 30px;}
 .card-goals{background-color:rgba(243, 161, 7, 0.158);
      padding:0 10px 0 30px;margin: 50px;border-radius: 20px;}
 .card-goals img{width: 50%;}
+
+
+.form{margin:200px 500px}
 
 
 footer{ background-color: rgba(3, 0, 0, 0.877); 
