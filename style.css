@@ -29,11 +29,16 @@ p{margin-bottom: 30px;}
 
 
 
-
-.card-mission{background-color:rgba(95, 158, 160, 0.158);}
-
-
-
+.motto {text-align: center; margin-top: 100px;}
+.card-mission{background-color:rgba(95, 158, 160, 0.158);
+     padding:0 10px 0 30px; margin: 50px;border-radius: 20px;}
+.card-mission img{width: 50%;}
+.card-vission{background-color:rgba(175, 90, 142, 0.158);
+     padding:0 10px 0 30px;margin: 50px;border-radius: 20px;}
+.card-vission img{width: 50%;}
+.card-goals{background-color:rgba(243, 161, 7, 0.158);
+     padding:0 10px 0 30px;margin: 50px;border-radius: 20px;}
+.card-goals img{width: 50%;}
 
 
 footer{ background-color: rgba(3, 0, 0, 0.877); 
