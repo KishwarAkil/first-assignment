@@ -2,15 +2,15 @@ body{font-family: 'Source Sans Pro', sans-serif;
      margin: 0px;}
 
 h1{font-size: 55px;}
-
+h2{font-size: 3em;}
 h3{margin-top: 7%;}
 
 .welcome-text{border-left: 5px solid firebrick;
-             border-radius:5px; padding-left: 15px; }
+             border-radius:5px; padding-left: 15px;margin-top: 80px; }
 
 .red-color{color: rgb(196, 5, 5);}
 
-section{display: flex;}
+.flexible-container{display: flex;}
 
 .half-width{width: 50%; padding-left: 10%;}
 
@@ -29,10 +29,18 @@ p{margin-bottom: 30px;}
 
 
 
+
+.card-mission{background-color:rgba(95, 158, 160, 0.158);}
+
+
+
+
+
 footer{ background-color: rgba(3, 0, 0, 0.877); 
         padding: 25px; }
 
+footer h2{ text-align:center; font-family:fantasy;
+font-size: 2em;} 
+
 footer p{color:rgb(141, 141, 141); text-align:center;
      margin-top: 20px;}
-footer h2{ text-align:center; font-family:fantasy;
-    font-size: 2em;}        
