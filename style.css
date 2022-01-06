@@ -45,7 +45,7 @@ footer{ background-color: rgba(3, 0, 0, 0.877);
         padding: 25px; }
 
 footer h2{ text-align:center; font-family:fantasy;
-font-size: 2em;} 
+font-size: 2em; font-style: italic;} 
 
 footer p{color:rgb(141, 141, 141); text-align:center;
      margin-top: 20px;}
