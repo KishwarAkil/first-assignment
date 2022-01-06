@@ -41,11 +41,15 @@ p{margin-bottom: 30px;}
      padding:0 10px 0 30px;margin: 50px;border-radius: 20px;}
 .card-goals img{width: 50%;}
 
-
+.third-page{background-image: url(./images/shapes/shape-1.png);
+background-position: left;background-repeat: no-repeat;
+background-size: 200px;}
 .third-page img{padding-bottom: 100px;}
 .development{margin: 50px 200px 0 0;}
 
-
+.fourth-page{background-image: url(./images/shapes/shape-1.png);
+background-position: right;background-repeat: no-repeat;
+background-size: 250px;}
 .fourth-page img{padding-bottom: 100px;}
 .community{margin:55px 0 0 100px ;}
 
@@ -60,5 +64,3 @@ font-size: 2em; font-style: italic;}
 
 footer p{color:rgb(141, 141, 141); text-align:center;
      margin-top: 20px;}
-
-
